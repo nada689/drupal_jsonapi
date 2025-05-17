@@ -1,4 +1,4 @@
-const baseURL = "http://localhost/GCS/jsonapi/node/slider";
+const baseURL = "https://gcs-coding.com/jsonapi/node/slider";
   const sliderContainer = document.getElementById("slider-content");
 
   fetch(`${baseURL}`)
